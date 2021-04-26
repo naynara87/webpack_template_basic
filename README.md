@@ -2,4 +2,4 @@
 webpack_template_basic
 
 ## 미리보기
-https://app.netlify.com/sites/fervent-babbage-043cc6/overview
+https://fervent-babbage-043cc6.netlify.app
